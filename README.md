@@ -24,7 +24,7 @@ I'm a passionate Data Analyst with a background in Tourism & Business Management
 
 ### 📫 How to Reach Me
 - LinkedIn: [Fanirahman M.](https://www.linkedin.com/in/fanirahmanmuchammad/)
-- Email: [fanirahmanmuchammad@email.com](mailto:fanirahman.workhub@gmail.com)
+- Email: [fanirahman.workhub@gmail.com](mailto:fanirahman.workhub@gmail.com)
 
 Let's connect and explore the possibilities of data together! 🚀
 
