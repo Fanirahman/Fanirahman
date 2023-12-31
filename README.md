@@ -1,28 +1,28 @@
-# Hi there! 👋 I'm Fanirahman M.
+### Hi there! 👋 I'm Fanirahman M.
 
 I'm a passionate Data Analyst with a background in Tourism & Business Management, dedicated to continuous improvement and delivering optimal results. My analytical journey is fueled by curiosity and a commitment to excellence.
 
-## 🌐 About Me
+### 🌐 About Me
 - 🎓 Bachelor's in Tourism & Business Management
 - 🔍 Data enthusiast exploring the depths of analytics
 - 🚀 Always seeking opportunities to enhance my skills
 
-## 👀 I'm Interested In
+### 👀 I'm Interested In
 - Unraveling complex data patterns
 - Transforming raw information into actionable insights
 - Collaborating on innovative data-driven solutions
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - Advancements in data analytics and visualization
 - Staying at the forefront of industry trends
 - Enhancing proficiency in Python, SQL, and data visualization tools
 
-## 💼 I'm Open to Collaboration On
+### 💼 I'm Open to Collaboration On
 - Data analysis projects
 - Innovative solutions for business improvement
 - Exploring the intersection of data and the tourism industry
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 - LinkedIn: [Fanirahman M.](https://www.linkedin.com/in/fanirahmanmuchammad/)
 - Email: [fanirahmanmuchammad@email.com](mailto:fanirahman.workhub@gmail.com)
 
